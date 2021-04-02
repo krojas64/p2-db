@@ -1,10 +1,12 @@
 {
 	"task": [
-		{ "poster": "Joe G.", "title": "Setup Database", "Important?": "Yes" , "column": "In Progress" },
-		{ "poster": "Vivian E.", "title": "Finish Home page", "Important?": "Yes" , "column": "Done" },
-		{ "poster": "George L.", "title": "Include API", "Important?": "No" , "column": "To Do" },
-		{ "poster": "Joe G.", "title": "Implement new feature", "Important?": "No" , "column": "To Do" },
-		{ "poster": "Zoey A.", "title": "Finish 2nd webpage", "Important?": "Yes" , "column": "Review" },
+	  { "poster": "Joe G.", "title": "Setup Database", "Important?": "Yes" , "column": "In Progress" },
+	  { "poster": "Vivian E.", "title": "Finish Home page", "Important?": "Yes" , "column": "Done" },
+	  { "poster": "George L.", "title": "Include API", "Important?": "No" , "column": "To Do" },
+	  { "poster": "Joe G.", "title": "Implement new feature", "Important?": "No" , "column": "To Do" },
+	  { "poster": "Zoey A.", "title": "Finish 2nd webpage", "Important?": "Yes" , "column": "Review" }
 	],
-	"profile": { "name": "typicode" }
+	"profile": { 
+	  "name": "typicode" 
+	}
 }
