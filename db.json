@@ -2,9 +2,11 @@
 	"task": [
 	  { "poster": "Joe G.", "title": "Setup Database", "id": 3, "Important": "Yes" , "column": "In Progress" },
 	  { "poster": "Vivian E.", "title": "Finish Home page", "id": 5, "Important": "Yes" , "column": "Done" },
-	  { "poster": "George L.", "title": "Include API", "id": 2, "Important": "No" , "column": "To Do" },
+	  { "poster": "George L.", "title": "Include alternate API", "id": 2, "Important": "No" , "column": "To Do" },
 	  { "poster": "Joe G.", "title": "Implement new feature", "id": 4, "Important": "No" , "column": "To Do" },
-	  { "poster": "Zoey A.", "title": "Finish 2nd webpage", "id": 1, "Important": "Yes" , "column": "Review" }
+	  { "poster": "Zoey A.", "title": "Finish 2nd webpage", "id": 1, "Important": "Yes" , "column": "Review" },
+	  { "poster": "Vivian E.", "title": "Implement idea from meeting", "id": 6, "Important": "No" , "column": "Review" },
+	  { "poster": "Zoey A.", "title": "Add API to track weather", "id": 7, "Important": "Yes" , "column": "In Progress" }
 	],
 	"profile": { 
 	  "name": "typicode" 
